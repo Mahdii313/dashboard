@@ -1,0 +1,41 @@
+{
+  "Index": {
+    "title": "Dashboard"
+  },
+  "EmptyNotif": {
+    "title": "Your inbox in empty"
+  },
+  "Post": {
+    "title": "User"
+  },
+  "Logout": {
+    "title": "Logout"
+  },
+  "Logo": {
+    "title": "Mahdi"
+  },
+  "Dashboard": {
+    "title": "Dashboard"
+  },
+  "Leaderboard": {
+    "title": "Leaderboard"
+  },
+  "order": {
+    "title": "order"
+  },
+  "Products": {
+    "title": "Products"
+  },
+  "Sales Report": {
+    "title": "Sales Report"
+  },
+  "Messages": {
+    "title": "Messages"
+  },
+  "Settings": {
+    "title": "Settings"
+  },
+  "Sign Out": {
+    "title": "Sign Out"
+  }
+}

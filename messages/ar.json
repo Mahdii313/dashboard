@@ -1,0 +1,41 @@
+{
+  "Index": {
+    "title": "لوحة القيادة"
+  },
+  "EmptyNotif": {
+    "title": "صندوق الوارد الخاص بك فارغ"
+  },
+  "Post": {
+    "title": "مستخدم"
+  },
+  "Logout": {
+    "title": "خروج"
+  },
+  "Logo": {
+    "title": "مهدي"
+  },
+  "Dashboard": {
+    "title": "لوحة القيادة"
+  },
+  "Leaderboard": {
+    "title": "المتصدرين"
+  },
+  "order": {
+    "title": "طلب"
+  },
+  "Products": {
+    "title": "منتجات"
+  },
+  "Sales Report": {
+    "title": "تقرير المبيعات"
+  },
+  "Messages": {
+    "title": "رسائل"
+  },
+  "Settings": {
+    "title": "إعدادات"
+  },
+  "Sign Out": {
+    "title": "خروج"
+  }
+}

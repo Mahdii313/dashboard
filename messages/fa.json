@@ -1,0 +1,41 @@
+{
+  "Index": {
+    "title": "داشبورد"
+  },
+  "EmptyNotif": {
+    "title": "شما پیامی ندارید"
+  },
+  "Post": {
+    "title": "کاربر"
+  },
+  "Logout": {
+    "title": "خروج"
+  },
+  "Logo": {
+    "title": "مهدی"
+  },
+  "Dashboard": {
+    "title": "داشبورد"
+  },
+  "Leaderboard": {
+    "title": "تابلوی امتیازات"
+  },
+  "order": {
+    "title": "سفارش"
+  },
+  "Products": {
+    "title": "محصولات"
+  },
+  "Sales Report": {
+    "title": "گزارشات فروش"
+  },
+  "Messages": {
+    "title": "پیام ها"
+  },
+  "Settings": {
+    "title": "تنظیمات"
+  },
+  "Sign Out": {
+    "title": "خروج"
+  }
+}
